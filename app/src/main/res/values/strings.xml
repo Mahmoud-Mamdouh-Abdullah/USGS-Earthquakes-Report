@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">USGS Quakes Report</string>
+    <string name="near_the">Near the</string>
+    <string name="no_earthquakes">no earthquakes found</string>
+    <string name="no_internet">no internet connection</string>
+    <string name="filter_data">Filter data</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="minimum_magnitude">Minimum Magnitude</string>
+    <string name="order_by">Order By : </string>
+    <string name="magnitude">Magnitude</string>
+    <string name="most_recent">Most Recent</string>
+    <string name="default_mag">5</string>
+    <string name="api_format">geojson</string>
+    <string name="filter_mag">magnitude</string>
+    <string name="filter_time">time</string>
+    <string name="splash_msg">All updates about earthquakes</string>
+    <string name="copyRight">All right reserved for USGS</string>
+</resources>
